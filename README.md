@@ -5,6 +5,8 @@
 <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jiloporti&layout=compact&theme=onedark'></img>
 
 <a href='https://jiloporti.itch.io' target='_blank'><img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'></img></a>
+<a href='mailto:giovanilou@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img></a>
+<a href='https://www.instagram.com/giovaniporti/' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></img></a>
 
 <!--
 **jiloporti/jiloporti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
