@@ -2,7 +2,7 @@
 ##
 
 <img height='150em' src='https://github-readme-stats.vercel.app/api?username=jiloporti&show_icons=true&theme=onedark'></img>
-<img height='150em' width='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jiloporti&layout=compact&theme=onedark'></img>
+<img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jiloporti&layout=compact&theme=onedark'></img>
 
 <a href='https://jiloporti.itch.io' target='_blank'><img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'></img></a>
 
