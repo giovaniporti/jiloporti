@@ -1,4 +1,10 @@
 ### Olá, me chamo Giovani. Sou escritor e estudante de programação.
+##
+
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=jiloporti&show_icons=true&theme=onedark'></img>
+<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jiloporti&layout=compact&theme=onedark'></img>
+
+<a href='https://jiloporti.itch.io' target='_blank'><img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'></img></a>
 
 <!--
 **jiloporti/jiloporti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
