@@ -1,5 +1,6 @@
-### Olá, me chamo Giovani.
-## Sou especialista em Game Design, cofundador do Alt F4 Game Studio.
+## Olá, me chamo Giovani.
+### Sou especialista em Game Design, cofundador do Alt F4 Game Studio.
+
 ##
 
 <img height='150em' src='https://github-readme-stats.vercel.app/api?username=jiloporti&show_icons=true&theme=onedark'></img>
